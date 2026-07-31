@@ -18,8 +18,7 @@
   <img src="https://img.shields.io/github/followers/GokulK-24MCA26?label=Followers&style=for-the-badge&color=ED8B00" alt="Followers"/>
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GokulK-24MCA26&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GokulK-24MCA26&theme=tokyonight&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/6DB33F/GokulK-24MCA26" alt="Gokul's GitHub Contribution Chart" width="90%"/>
 </p>
 ---
 <!-- ==================== ABOUT ==================== -->
