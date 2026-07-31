@@ -1,12 +1,24 @@
-<h1 align="center">Hi there, I'm Gokul K 👋</h1>
+<!-- Animated wave header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:ED8B00&height=200&section=header&text=Hi%20There,%20I'm%20Gokul%20K%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h3 align="center">Software Developer | Java & Spring Boot | Full Stack Web Developer (PHP/Laravel)</h3>
+<!-- Animated typing subtitle -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+Spring+Boot+Backend+Developer;Full+Stack+Web+Developer+(PHP%2FLaravel);Building+REST+APIs+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   📍 Erode, Tamil Nadu, India &nbsp;|&nbsp;
   📧 <a href="mailto:gokulgokul4457@gmail.com">gokulgokul4457@gmail.com</a> &nbsp;|&nbsp;
   🔗 <a href="https://gokulk.netlify.app">Portfolio</a> &nbsp;|&nbsp;
   💼 <a href="https://linkedin.com/in/gokulk887016">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GokulK-24MCA26&label=Profile%20Views&color=6DB33F&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -78,6 +90,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulK-24MCA26" alt="Gokul's GitHub Streak" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulK-24MCA26&layout=compact&theme=default" alt="Top Languages" height="165"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GokulK-24MCA26&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GokulK-24MCA26/GokulK-24MCA26/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> ℹ️ The snake animation above needs a one-time GitHub Actions setup — instructions below.
+
 ---
 
 ### 📫 Connect With Me
@@ -88,6 +118,6 @@
 <a href="https://gokulk.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center"><i>Thanks for visiting my profile — feel free to explore my repositories and reach out!</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:6DB33F&height=100&section=footer" />
+</p>
