@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/github/followers/GokulK-24MCA26?label=Followers&style=for-the-badge&color=ED8B00" alt="Followers"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation (activate via Actions - see setup note below)"/>
-</p><p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GokulK-24MCA26&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GokulK-24MCA26&theme=tokyonight&hide_border=true"/>
 </p>
