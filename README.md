@@ -18,11 +18,7 @@
   <img src="https://img.shields.io/github/followers/GokulK-24MCA26?label=Followers&style=for-the-badge&color=ED8B00" alt="Followers"/>
 </p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GokulK-24MCA26/GokulK-24MCA26/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GokulK-24MCA26/GokulK-24MCA26/output/github-contribution-grid-snake.svg" />
-    <img align="center" alt="Gokul's contribution snake" src="https://raw.githubusercontent.com/GokulK-24MCA26/GokulK-24MCA26/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 ---
 <!-- ==================== ABOUT ==================== -->
