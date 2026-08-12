@@ -1,228 +1,177 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:ED8B00&height=220&section=header&text=Gokul%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Gokul%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Spring+Data+JPA;Full+Stack+Web+Developer+(PHP+%2F+Laravel);REST+API+%26+MySQL+Database+Design;Turning+Ideas+Into+Reliable+Backend+Systems" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices+Architecture;Full+Stack+Developer+%7C+PHP+%7C+Laravel+%7C+REST+APIs;Database+Design+%7C+MySQL+%7C+Performance+Optimization;Building+Scalable+%26+Maintainable+Backend+Systems" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:gokulgokul4457@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/gokulk887016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://gokulk.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Erode,%20Tamil%20Nadu-4479A1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <a href="mailto:gokulgokul4457@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gokulk887016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://gokulk.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white"/></a>
+  <a href="https://github.com/Gokulk8870"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Erode%2C%20TN%2C%20India-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GokulK-24MCA26&label=Profile+Views&color=6DB33F&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/GokulK-24MCA26?label=Followers&style=for-the-badge&color=ED8B00" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=GokulK-24MCA26&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/GokulK-24MCA26?label=Followers&style=flat-square&color=6366f1" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/GokulK-24MCA26?label=Stars&style=flat-square&color=f59e0b" alt="Stars"/>
 </p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<!-- ==================== CONTRIBUTION SNAKE (ANIMATED) ==================== -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GokulK-24MCA26/GokulK-24MCA26/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GokulK-24MCA26/GokulK-24MCA26/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/GokulK-24MCA26/GokulK-24MCA26/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</p>
-
-<!-- 🔧 SETUP: this animation needs a one-time GitHub Action in this repo.
-     See snake.yml (provided separately) — copy it to
-     .github/workflows/snake.yml and it will render automatically. -->
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
-<h3 align="center">🧑‍💻 About Me</h3>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<ul>
-<li>🎓 Pursuing <b>MCA</b> at KGiSL Institute of Information Management, Coimbatore — CGPA 8.1</li>
-<li>💼 Software Developer Trainee at <b>KG Genius Labs</b> — working across PHP, Laravel, Frappe, and Magento</li>
-<li>🚀 Currently deepening backend skills in <b>Java, Spring Boot & Spring Data JPA</b></li>
-<li>🌐 Full-stack experience building database-driven web apps with authentication, RBAC, and REST APIs</li>
-<li>🔧 Comfortable end-to-end: from console-based Java apps with JDBC to production Laravel apps with payment gateway integration</li>
-<li>💬 Ask me about: Spring Boot • Laravel • MySQL • REST APIs • MVC Architecture</li>
-</ul>
-
-</td>
-<td width="40%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</td>
-</tr>
-</table>
-
----
-
-<!-- ==================== SKILLS ==================== -->
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,html,css,js,bootstrap,git,github,eclipse,vscode,postman&theme=dark" />
-</p>
+<!-- ==================== PROFESSIONAL SUMMARY ==================== -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> 
+  Professional Summary
+</h3>
 
 <table align="center">
 <tr>
-<td valign="top" width="20%">
+<td width="70%" valign="top">
 
-<b>Backend</b><br/>
-Java<br/>
-Spring Boot<br/>
-Spring Data JPA<br/>
-PHP<br/>
-Laravel<br/>
-JDBC
+> **Software Engineer** with hands-on experience building production-grade web applications. Currently working as a **Software Developer Trainee at KG Genius Labs**, delivering solutions across PHP, Laravel, Frappe, and Magento ecosystems. Pursuing MCA at KGiSL Institute of Information Management with a strong foundation in **Java, Spring Boot, and database design**.
 
-</td>
-<td valign="top" width="20%">
+<br/>
 
-<b>Database</b><br/>
-MySQL<br/>
-SQL<br/>
-Database Design
+**🎯 Core Competencies:**
+- **Backend Engineering:** Spring Boot, Laravel, RESTful API Design
+- **Database Architecture:** MySQL, JDBC, JPA/Hibernate, Query Optimization
+- **Full Stack Development:** MVC Pattern, Authentication Systems, Payment Integration
+- **Software Practices:** Clean Code, Version Control (Git), Agile Methodology
 
 </td>
-<td valign="top" width="20%">
-
-<b>Frontend</b><br/>
-HTML5 / CSS3<br/>
-JavaScript<br/>
-Bootstrap<br/>
-jQuery / AJAX
-
-</td>
-<td valign="top" width="20%">
-
-<b>Tools</b><br/>
-Git & GitHub<br/>
-Maven<br/>
-Postman<br/>
-Eclipse IDE / VS Code
-
-</td>
-<td valign="top" width="20%">
-
-<b>Concepts</b><br/>
-REST API<br/>
-CRUD Operations<br/>
-MVC Architecture<br/>
-OOP • RBAC
-
+<td width="30%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%"/>
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
-<h3 align="center">🚀 Featured Projects</h3>
+<!-- ==================== TECH STACK ==================== -->
+<h3 align="center">🛠️ Technology Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,html,css,js,bootstrap,git,github,eclipse,vscode,postman,docker,linux&theme=light" />
+</p>
+
+<details open>
+<summary><b>📋 Detailed Breakdown</b></summary>
+<br/>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td valign="top" width="25%">
 
-📚 <b>Library Management System</b><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<br/><br/>
-RESTful backend for managing library books with full CRUD operations, Spring Data JPA persistence, and proper HTTP status handling.
+**🔧 Backend & Frameworks**
+- Java 8/11/17
+- Spring Boot
+- Spring Data JPA/Hibernate
+- PHP 7/8
+- Laravel 8/9/10
+- JDBC & Connection Pooling
 
 </td>
-<td width="50%">
+<td valign="top" width="25%">
 
-🏨 <b>Hotel Room Booking System</b><br/>
-<img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<br/><br/>
-Console-based hotel reservation system with booking, cancellation, and transaction management using commit/rollback.
+**🗄️ Database & Storage**
+- MySQL
+- PostgreSQL
+- Redis (Learning)
+- Database Design
+- Query Optimization
+- Indexing Strategies
+
+</td>
+<td valign="top" width="25%">
+
+**🎨 Frontend**
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- Bootstrap 4/5
+- jQuery / AJAX
+- Responsive Design
+- Cross-browser Compatibility
+
+</td>
+<td valign="top" width="25%">
+
+**🛠️ DevOps & Tools**
+- Git & GitHub
+- Maven / Composer
+- Postman (API Testing)
+- Docker (Basics)
+- Linux/Unix CLI
+- Eclipse IDE / VS Code
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td valign="top" width="25%">
 
-👕 <b>Garment Billing & Inventory Management</b><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<br/><br/>
-Full billing & inventory system for garment retail with GST billing, RBAC, and real-time stock updates.
-<br/><br/>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-2ea44f?style=flat-square"/></a>
-<!-- 🔧 replace the # above with your deployed project URL -->
-
-</td>
-<td width="50%">
-
-🥚 <b>Egg Shop Billing & Inventory Management</b><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
-<br/><br/>
-Retail billing system with Razorpay payment gateway integration and REST API endpoints.
+**📐 Architecture & Patterns**
+- REST API Design
+- MVC Architecture
+- Microservices (Learning)
+- Repository Pattern
+- Service Layer Pattern
 
 </td>
-</tr>
-<tr>
-<td width="100%" colspan="2">
+<td valign="top" width="25%">
 
-📝 <b>Notes Management Application</b><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<br/><br/>
-Responsive notes app with full CRUD using browser Local Storage — no backend required.
-<br/><br/>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-2ea44f?style=flat-square"/></a>
-<!-- 🔧 replace the # above with your deployed project URL -->
+**🔐 Security & Auth**
+- JWT Authentication
+- OAuth 2.0 (Learning)
+- Role-Based Access Control
+- Input Validation
+- CSRF Protection
+
+</td>
+<td valign="top" width="25%">
+
+**💳 Integrations**
+- Razorpay Payment Gateway
+- RESTful API Integration
+- Third-party APIs
+- Email Services (SMTP)
+
+</td>
+<td valign="top" width="25%">
+
+**📚 Methodologies**
+- Agile/Scrum
+- Clean Code Principles
+- SOLID Principles
+- Test-Driven Development
+- Code Review Practices
 
 </td>
 </tr>
 </table>
+</details>
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
-<h3 align="center">📊 GitHub Analytics</h3>
+<!-- ==================== EXPERIENCE ==================== -->
+<h3 align="center">💼 Professional Experience</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GokulK-24MCA26&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=6DB33F&icon_color=ED8B00&text_color=ffffff&bg_color=0d1117" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=GokulK-24MCA26&theme=dark&hide_border=true&background=0d1117&ring=6DB33F&fire=ED8B00" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulK-24MCA26&layout=compact&theme=dark&hide_border=true&title_color=6DB33F&text_color=ffffff&bg_color=0d1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulK-24MCA26&theme=react-dark&hide_border=true&bg_color=0d1117&color=6DB33F&line=ED8B00&point=ffffff" width="95%"/>
-</p>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GokulK-24MCA26&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
-<!-- ==================== FOOTER ==================== -->
-<h3 align="center">📫 Let's Connect</h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/gokulk887016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gokulgokul4457@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://gokulk.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="https://github.com/Gokulk8870"><img src="https://img.shields.io/badge/Other%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+great+together." alt="Footer Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:6DB33F&height=120&section=footer"/>
-</p>
+```mermaid
+timeline
+    title Career Journey
+    June 2024 - Present : Software Developer Trainee @ KG Genius Labs
+                        : PHP, Laravel, Frappe, Magento
+                        : Payment Gateway Integration
+    July 2023 - Present : MCA Student @ KGiSL Institute
+                        : CGPA 8.1
+                        : Java, Spring Boot Specialization
+    April 2023 : B.Sc. Computer Technology
+               : Kongu Arts & Science College
+               : Percentage 75.7%
